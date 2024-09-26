@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "An_Fn_Queue_Processor": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7216",
+      "launchBrowser": false
+    }
+  }
+}
